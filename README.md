@@ -71,23 +71,8 @@ The HTML report contains:
 * Test results (Pass/Fail)
 * Execution time
 
----
-
-## 🎯 Key Learnings
-
-* API testing using Postman
-* Running collections via CLI (Newman)
-* Generating professional HTML reports
-* Handling errors and debugging
-
----
-
-## 👨‍💻 Author
-
-**Akshaya Survase**
-
----
-
-## ⭐ Note
-
-This project is part of hands-on practice for API Testing and VAPT learning.
+🎯 Key Learnings
+1) API testing using Postman
+2) Running collections via CLI (Newman)
+3) Generating professional HTML reports
+4) Handling errors and debugging
